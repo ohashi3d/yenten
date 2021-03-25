@@ -873,6 +873,35 @@
         <translation>Ваш текущий баланс (только чтение):</translation>
     </message>
     <message>
+        <source>Watch-only:</source>
+        <translation>Только для просмотра:</translation>
+    </message>
+    <message>
+        <source>Available:</source>
+        <translation>Доступно:</translation>
+    </message>
+    <message>
+        <source>Your current spendable balance</source>
+        <translation>Ваш текущий баланс который вы можете использовать</translation>
+    </message>
+    <message>
+        <source>Pending:</source>
+        <translation>В ожидании:</translation>
+    </message>
+    <message>
+        <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
+        <translation>Сумма всех транзакций, которые еще не были подтверждены, и еще не отображаются на балансе доступном для использования</translation>
+    </message>
+    <message>
+        <source>Immature:</source>
+        <translation>Незрелые:</translation>
+    </message>
+    <message>
+        <location line="-29"/>
+        <source>Mined balance that has not yet matured</source>
+        <translation>Баланс полученный майнингом, который еще не созрел</translation>
+    </message>
+    <message>
         <source>Recent transactions</source>
         <translation>Последние транзакции</translation>
     </message>
@@ -1128,6 +1157,10 @@
     <message>
         <source>Show</source>
         <translation>Показать</translation>
+    </message>
+    <message>
+        <source>&amp;Label:</source>
+        <translation>Метка:</translation>
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
@@ -1757,7 +1790,11 @@
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Загрузка индексов блоков...</translation>
+        <translation>Выполняется загрузка блоков...</translation>
+    </message>
+    <message>
+        <source>Rewinding blocks...</source>
+        <translation>Перемотка блоков...</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
