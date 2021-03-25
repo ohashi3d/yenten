@@ -1240,7 +1240,7 @@
     </message>
     <message>
         <source>Request payment to %1</source>
-        <translation>Запрос платежа на </translation>
+        <translation>Запрос платежа на %1</translation>
     </message>
     <message>
         <source>Payment information</source>
