@@ -1148,7 +1148,11 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation>Отчистить</translation>
+        <translation>Очистить</translation>
+    </message>
+    <message>
+        <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
+        <translation>Используйте эту форму, чтобы запрашивать платежи. Все поля являются &lt;b&gt;необязательными&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Show the selected request (does the same as double clicking an entry)</source>
@@ -1163,8 +1167,36 @@
         <translation>&amp;Метка:</translation>
     </message>
     <message>
+        <source>An optional label to associate with the new receiving address.</source>
+        <translation>Необязательная метка для ассоциации нового адреса.</translation>
+    </message>
+    <message>
+        <source>&amp;Amount:</source>
+        <translation>&amp;Сумма:</translation>
+    </message>
+    <message>
+        <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
+        <translation>Необязательное поле суммы запроса. Оставьте это поле пустым или равным нулю, если не хотите запрашивать конкретную сумму.</translation>
+    </message>
+    <message>
+        <source>&amp;Message:</source>
+        <translation>&amp;Сообщение:</translation>
+    </message>
+     <message>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
+        <translation>Необязательное сообщение прикрепляемое к запросу платежа, которое будет отображено когда запрос открыт. Заметка: Это сообщение не будет отправлено в Yenten сеть.</translation>
+    </message>
+    <message>
         <source>Remove the selected entries from the list</source>
         <translation>Удалить выбранные записи со списка</translation>
+    </message>
+    <message>
+        <source>&amp;Request payment</source>
+        <translation>&amp;Запросить платеж</translation>
+    </message>
+    <message>
+        <source>Requested payments history</source>
+        <translation>История запрошенных платежей</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1194,8 +1226,21 @@
         <translation>QR-код</translation>
     </message>
     <message>
+        <source>Copy &amp;URI</source>
+        <translation>Скопировать &amp;URI</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Copy &amp;Address</source>
+        <translation>Скопировать &amp;Адрес></translation>
+    </message>
+    <message>
         <source>&amp;Save Image...</source>
         <translation>&amp;Сохранить изображение...</translation>
+    </message>
+    <message>
+        <source>Request payment to %1</source>
+        <translation>Запрос платежа на </translation>
     </message>
     <message>
         <source>Payment information</source>
@@ -1239,6 +1284,10 @@
     <message>
         <source>(no message)</source>
         <translation>(нет сообщений)</translation>
+    </message>
+    <message>
+        <source>Requested</source>
+        <translation>Запрошено</translation>
     </message>
     </context>
 <context>
