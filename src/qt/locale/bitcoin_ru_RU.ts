@@ -911,7 +911,7 @@
     <name>QObject</name>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Введите Yenten-адрес (напр. %1)</translation>
+        <translation>Введите ТЕСТ (напр. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
