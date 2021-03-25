@@ -911,7 +911,7 @@
     <name>QObject</name>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Введите ТЕСТ2 (напр. %1)</translation>
+        <translation>Введите Yenten-адрес (напр. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1754,6 +1754,10 @@
     <message>
         <source>(default: %s)</source>
         <translation>(значение по умолчанию: %s)</translation>
+    </message>
+    <message>
+        <source>Loading block index...</source>
+        <translation>Загрузка индексов блоков...</translation>
     </message>
     <message>
         <source>Loading wallet...</source>
