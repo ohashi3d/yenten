@@ -1160,7 +1160,7 @@
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation>Метка:</translation>
+        <translation>&amp;Метка:</translation>
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
